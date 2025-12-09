@@ -3,4 +3,4 @@ function saluto(nome) {
     console.log("Ciao, " + nome + "!");
 }
 
-saluto("Maria");  // Prova con un nome a caso
+saluto("Tonielli");  // Prova con un nome a caso
